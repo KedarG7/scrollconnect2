@@ -6,8 +6,6 @@ import Navbar from './components/Navbar/navbar'
 function Kedar() {
   return (
    <>
- {/* /  <div>Kedar</div> */}
-    {/* <Navbar/> */}
    <div className="p-2  border-black flex w-full h-screen md:flex-row flex-col">
       <div className='p-4 pl-16 w-1/2 flex flex-col item-center justify-center gap-10'>
       <h1 className='text-2xl'>Welcome to SIGCE</h1>
