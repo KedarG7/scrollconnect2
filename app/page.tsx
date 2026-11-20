@@ -3,7 +3,7 @@ import React from 'react'
 import Image from 'next/image'
 import Navbar from './components/Navbar/navbar'
 
-function Kedar() {
+function Home() {
   return (
    <>
    <div className="p-2  border-black flex w-full h-screen md:flex-row flex-col">
@@ -21,4 +21,4 @@ function Kedar() {
   )
 }
 
-export default Kedar
+export default Home
